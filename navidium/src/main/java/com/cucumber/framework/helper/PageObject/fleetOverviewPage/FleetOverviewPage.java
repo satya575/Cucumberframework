@@ -222,14 +222,6 @@ public class FleetOverviewPage extends PageBase {
         return b && c ? true : false;
     }
 
-
-
-
-
-
-
-
-
     public boolean assertEmissionControlArea() {
 
         boolean b = particles.isDisplayed();

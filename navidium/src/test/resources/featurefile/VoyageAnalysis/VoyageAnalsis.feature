@@ -1,4 +1,4 @@
-
+@cleaning
 Feature: To verify the Voyage Analysis Page
 
   Background:
